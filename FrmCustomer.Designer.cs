@@ -121,6 +121,7 @@
             this.btnGetByCustomerId.TabIndex = 46;
             this.btnGetByCustomerId.Text = "ID\'ye Göre Getir";
             this.btnGetByCustomerId.UseVisualStyleBackColor = false;
+            this.btnGetByCustomerId.Click += new System.EventHandler(this.btnGetByCustomerId_Click);
             // 
             // dataGridView1
             // 

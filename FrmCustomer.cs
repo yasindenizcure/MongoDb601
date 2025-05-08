@@ -89,5 +89,10 @@ namespace CsharpEgitimKampi601
             connection.Close();
             GetAllCustomers();
         }
+
+        private void btnGetByCustomerId_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
